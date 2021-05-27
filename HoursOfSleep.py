@@ -30,5 +30,4 @@ def setup():
     datasource = getDataSource(data_path)
     findCorrelation(datasource)
     plotFigure(data_path)
-
 setup()
